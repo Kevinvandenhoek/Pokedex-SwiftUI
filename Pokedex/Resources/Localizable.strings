@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Pokedex
+
+  Created by Kevin van den Hoek on 13/01/2023.
+  
+*/
+
+"pokemon_list.title" = "All Pokémon";
+"pokemon_list.search_field.placeholder" = "Search for Pokémon..";
+
+"tab.pokemons.title" = "Pokémons";
+"tab.favorites.title" = "Favorites";
